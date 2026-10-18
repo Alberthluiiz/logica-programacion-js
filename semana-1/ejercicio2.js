@@ -1,3 +1,5 @@
+// Enunciado: Crea un programa que almacene el nombre y la edad de una persona, y luego muestre una presentación en pantalla.
+
 console.log("Ejercicio 2");
 
 const nombre = "Luis Guillen";

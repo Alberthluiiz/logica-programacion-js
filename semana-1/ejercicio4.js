@@ -1,13 +1,14 @@
-console.log(`Ejercicio 4`);
+// Enunciado: Crea un programa que calcule y muestre el resto de dividir 17 entre 5 utilizando el operador %.
 
-const mensaje = "Hola";
-const numero = 10;
-const condicion = true;
-const pi = 3.1416;
 
-console.log(`El tipo de dato de la variable mensaje es: ${typeof mensaje}`);
-console.log(`El tipo de dato de la variable numero es: ${typeof numero}`);
-console.log(`El tipo de dato de la variable condicion es: ${typeof condicion}`);
-console.log(`El tipo de dato de la variable pi es: ${typeof pi}`);
-console.log(typeof 42);
-console.log(typeof "42");
+console.log("Ejercicio 4");
+
+const num1 = 17;
+const num2 = 5;
+
+const division = num1 / num2;
+const resto = num1 % num2;
+
+console.log(`El division de ${num1} / ${num2} es: ${division.toFixed(2)}`);
+
+console.log(`El resto de dividir ${num1} entre ${num2} es: ${resto}`);

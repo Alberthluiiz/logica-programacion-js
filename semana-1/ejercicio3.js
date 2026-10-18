@@ -1,3 +1,5 @@
+// Enunciado: Crea un programa que realice y muestre la suma, resta, multiplicación y división de dos números.
+
 console.log("Calculadora Basica");
 
 /* Usamos const por que el valor no va a cambiar

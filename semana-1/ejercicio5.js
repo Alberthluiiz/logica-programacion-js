@@ -1,3 +1,5 @@
+// Enunciado: Crea un programa que utilice typeof para identificar y mostrar el tipo de dato de diferentes valores y variables.
+
 console.log(`Ejercicio 5 - uso de typeof`);
 
 const mensaje = "Hola";

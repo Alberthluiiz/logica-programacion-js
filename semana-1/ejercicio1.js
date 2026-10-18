@@ -1,3 +1,5 @@
+// Enunciado: Crea un programa que muestre en pantalla tu nombre, la ciudad donde vives y tu comida favorita.
+
 console.log("Mostrar Mensaje por pantalla");
 
 let nombre = "Luis Guillen";
